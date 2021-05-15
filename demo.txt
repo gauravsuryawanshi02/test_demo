@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fixed demo issue using branching
+=======
+demo of pulling
+>>>>>>> e8a598ac0d660b7d322e4f77d9c6a6f3d2dad205
